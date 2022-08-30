@@ -5,7 +5,7 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-                chmod 777 ./jenkins.sh
+                chmod u+x ./jenkins.sh
                 ./jenkins.sh
             }
         }
