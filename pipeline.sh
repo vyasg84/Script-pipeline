@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 # touch gaurav
 # sleep 5
 # cat gaurav
