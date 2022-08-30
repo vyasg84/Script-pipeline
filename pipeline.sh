@@ -1,9 +1,11 @@
-#!/bin/bash
-touch gaurav
-sleep 5
-cat gaurav
-sleep 5
-mkdir vyasg
-cd vyasg
-touch gv1 gv2 gv3
-ls -lah
+!/bin/bash
+# touch gaurav
+# sleep 5
+# cat gaurav
+# sleep 5
+# mkdir vyasg
+# cd vyasg
+# touch gv1 gv2 gv3
+# ls -lah
+echo "hello, this is Gaurav"
+echo date
