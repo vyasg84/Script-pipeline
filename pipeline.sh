@@ -7,4 +7,3 @@ mkdir vyasg
 cd vyasg
 touch gv1 gv2 gv3
 ls -lah
-sleep 10
