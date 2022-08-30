@@ -5,8 +5,8 @@ pipeline {
         stage('Hello') {
             steps {
                 echo 'Hello World'
-               
-                sh 'pipeline.sh'
+                sh './pipeline.sh'
+                echo $?
             }
         }
     }
